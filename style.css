@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: black;
 }
 
 .d-bloc .panel button:hover,
@@ -293,7 +293,8 @@ a:hover {
 }
 
 .navbar-brand {
-    height: auto;
+    width: 220px;
+    height: 40px;
     padding: 3px 15px;
     font-size: 25px;
     font-weight: normal;
@@ -302,7 +303,7 @@ a:hover {
 }
 
 .navbar-brand img {
-    width: 200px;
+    width: 220px;
     height: 40px;
     margin: 0 5px 0 0;
     display: inline;
