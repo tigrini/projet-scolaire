@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, 0.918);
+    color: black;
 }
 
 .d-bloc button:hover {
@@ -701,6 +701,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    color: black;
 }
 
 h3 {
@@ -766,7 +767,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #f78e5e;
 } 
 .fond-noir {
     background-color: rgba(32, 30, 20, 0.7);
