@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(255, 255, 255, 0.918);
 }
 
 .d-bloc button:hover {
@@ -647,20 +647,6 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-label,
-.btn,
-a {
-    font-family: "helvetica";
-    font-weight: 400;
-    color: #575757!important;
-}
 
 .container {
     max-width: 1000px;
@@ -847,7 +833,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
