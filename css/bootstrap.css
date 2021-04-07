@@ -50,8 +50,6 @@ template {
     display: none
 }
 
-
-
 abbr[title] {
     border-bottom: 1px dotted
 }
@@ -1958,7 +1956,9 @@ pre code {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
-    margin-left: auto
+    margin-left: auto;
+    
+    
 }
 
 @media (min-width:768px) {
@@ -1975,7 +1975,7 @@ pre code {
 
 @media (min-width:1200px) {
     .container {
-        width: 1170px
+        width: 1170px;
     }
 }
 
@@ -1987,8 +1987,8 @@ pre code {
 }
 
 .row {
-    margin-right: -15px;
-    margin-left: -15px;
+    margin-right: 10px;
+    margin-left: 10px;
     
 }
 
