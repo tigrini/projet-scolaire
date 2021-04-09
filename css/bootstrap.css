@@ -1756,19 +1756,6 @@ a.bg-danger:hover {
     border-bottom: 1px solid #eee
 }
 
-ol,
-ul {
-    margin-top: 0;
-    margin-bottom: 10px
-}
-
-ol ol,
-ol ul,
-ul ol,
-ul ul {
-    margin-bottom: 0
-}
-
 .list-unstyled {
     padding-left: 0;
     list-style: none
@@ -2022,7 +2009,6 @@ pre code {
 .col-sm-12,
 .col-sm-2,
 .col-sm-3,
-.col-sm-4,
 .col-sm-5,
 .col-sm-6,
 .col-sm-7,

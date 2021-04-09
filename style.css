@@ -287,9 +287,9 @@ a:hover {
     font-size: 32px;
 }
 
-.navbar {
+.navbar-row {
     display: flex;
-    justify-content: space-between;   
+    justify-content: space-between;
 }
 
 .menu {
@@ -346,6 +346,31 @@ a:hover {
 
     background: transparent;
 }
+.navbar-toggle {
+    margin: 10px 10px 0 0;
+    border: 0px;
+}
+
+.navbar-toggle:hover {
+    background: transparent!important;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: rgba(0, 0, 0, .5);
+    width: 26px;
+}
+
+.nav-invert .navbar .nav {
+    float: left;
+}
+
+.nav-invert .navbar-header,
+.nav-invert .navbar-brand {
+    float: right;
+    position: relative;
+    z-index: 2;
+}
+
 .col-sm-6 img {
     width: 270px;
     height: 270px;
@@ -726,6 +751,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-size: 1.7rem;
 }
 
 .portfolio-thumb {
