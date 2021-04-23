@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: black;
+    color: white;
 }
 
 .d-bloc button:hover {
@@ -373,8 +373,7 @@ a:hover {
 
 .col-sm-6 img {
     width: 270px;
-    height: 270px;
-    
+    height: 270px;    
 }
 
 
@@ -683,7 +682,7 @@ a[data-lightbox]:hover img {
 }
 
 p {
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -706,15 +705,20 @@ p {
 }
 a {
     text-decoration: none;
+    color: #FFFFFF;
 }
 
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    padding: 5px;
+}
+.socials{
+    max-width: 300px;
+    margin: auto auto auto auto;
+    padding: 5px;
     display: flex;
     justify-content: space-between;
-    padding: 20px;
-
 }
 
 h2 {
@@ -749,9 +753,10 @@ h4 {
     margin-top: 24px;
 }
 
-.white {
+.white P{
     color: #FFFFFF!important;
-    font-size: 1.7rem;
+    font-size: 1.9rem;
+    margin-bottom: 20px;
 }
 
 .portfolio-thumb {
